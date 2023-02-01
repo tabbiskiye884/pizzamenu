@@ -1,0 +1,40 @@
+.menu {
+    margin: auto;
+    width: 50%;
+    border: 3px solid red;
+    padding: 10px;
+
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.menuItems {
+    display: inline-table;
+   padding: 50px;
+}
+
+.checkbox {
+    padding: 40px;
+    border-bottom-color: black;
+    border-bottom: solid;
+    width: 100%;
+    min-width: 509px;
+}
+
+.form {
+    display: inline-block;
+}
+
+.submitButtom {
+    display: flex;
+    justify-content: flex-end;
+    align-content: space-between;
+    align-items: flex-end;
+}
+
+.submit{
+
+}
